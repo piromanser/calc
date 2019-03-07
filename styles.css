@@ -16,10 +16,6 @@ body {
     flex-direction: column;
 }
 
-.button {
-    /* padding: 15px 35px; */
-}
-
 .active-page {
     flex-direction: row;
     margin-top: 21px;
@@ -268,7 +264,7 @@ body {
 
 .banner {
     margin-top: 90px;
-    background-image: url(/img/banner.png);
+    background-image: url(img/banner.png);
     height: 184px;
 }
 
